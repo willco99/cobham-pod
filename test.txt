@@ -1,3 +1,16 @@
 hey
 
 new stuff
+
+
+on the rp do this
+
+sudo apt-get install git
+
+
+ifconfig will give you the ip
+
+use putty to conect to ifconfig ip
+
+use raspberrypi un+pw to login
+
